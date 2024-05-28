@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full-stack development**
 
-- 🌱 I’m currently learning **Web Development, App Development, Software Development, DSA, and DBMS**
+- 🌱 I’m currently learning **Web Development, Software Development, DSA, and DBMS**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
