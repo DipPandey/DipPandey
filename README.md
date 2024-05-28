@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DipPandey&label=Profile%20views&color=0e75b6&style=flat" alt="DipPandey" /> </p>
 
-- 🔭 I’m currently working on **Full-stack development (MERN)**
+- 🔭 I’m currently working on **Full-stack development**
 
 - 🌱 I’m currently learning **Web Development, App Development, Software Development, DSA, and DBMS**
 
