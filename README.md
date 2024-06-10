@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DipPandey](https://github.com/DipPandey)
 
-- 📫 How to reach me **Dip.burly@gmail.com**
+- 📫 How to reach me **dippandey61@outlook.com**
 
 - 📄 Know about my experiences [Click Here](https://www.linkedin.com/in/dip-pandey-a402b81b4/)
 
