@@ -40,6 +40,8 @@ An application designed for engineers to log and track their work activities.
 ### Other Projects
 Check out my other projects on [GitHub](https://github.com/DipPandey).
 
+- Portfolio: [My Portfolio](https://dip-portfolio-website.vercel.app/)
+
 ## Contact
 - Email: dippandey61@outlook.com
 - LinkedIn: [Dip Pandey](https://www.linkedin.com/in/dip-pandey-a402b81b4/)
