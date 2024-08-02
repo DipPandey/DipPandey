@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DipPandey&label=Profile%20views&color=0e75b6&style=flat" alt="DipPandey" /> </p>
 
-- 🔭 I’m currently working on **Full-stack development**
+- 🔭 I’m currently working on **MERN Full-stack development**
 
-- 🌱 I’m currently learning **Web Development, Software Development, DSA, and DBMS**
+- 🌱 I’m currently learning **Web Development, Software DevOps, DSA, and DBMS**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
